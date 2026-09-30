@@ -1,0 +1,18 @@
+A. ANITHA — FINAL CHAPTER 02 PACKAGE
+
+This package contains the updated website plus the original Chapter 01 assets and the new Chapter 02 assets.
+
+IMPORTANT:
+Do NOT delete the existing A. Anitha Vercel project.
+Do NOT replace or delete the existing assets folder manually.
+
+The assets folder in this package is complete: it contains the original Chapter 01 assets AND the new Chapter 02 assets.
+
+Files included:
+- index.html
+- styles.css
+- script.js
+- README.txt
+- assets/ (complete original + Chapter 02 media)
+
+The existing approved A. Anitha logo file is included as assets/a-anitha-logo.png.
